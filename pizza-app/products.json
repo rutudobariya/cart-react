@@ -1,0 +1,318 @@
+{
+  "products": [
+    {
+      "name": "Four cheese",
+      "price": 799,
+      "size": "Medium",
+      "image": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+      "createdAt": {
+        "$date": "2021-04-30T15:53:23.393Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:53:23.393Z"
+      },
+      "id": "1"
+    },
+    {
+      "name": "Chicken mushroom",
+      "price": 699,
+      "size": "Small",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpvTCNzpM8Jlg75-YT9s7zN3OcPnwaOloHCPn9JuItRj93rft56oXzBuh3wdlP9p80vU&usqp=CAU",
+      "createdAt": {
+        "$date": "2021-04-30T15:53:48.741Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:53:48.741Z"
+      },
+      "id": "2"
+    },
+    {
+      "name": "Margarita",
+      "price": 699,
+      "size": "Medium",
+      "image": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+      "createdAt": {
+        "$date": "2021-04-30T15:55:36.364Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:55:36.364Z"
+      },
+      "id": "3"
+    },
+    {
+      "name": "Carbonara",
+      "price": 999,
+      "size": "Large",
+      "image": "https://us.123rf.com/450wm/sebastianbass/sebastianbass2311/sebastianbass231100036/217334310-pizza-on-white-background.jpg?ver=6",
+      "createdAt": {
+        "$date": "2021-04-30T15:55:54.276Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:55:54.276Z"
+      },
+      "id": "4"
+    },
+    {
+      "name": "Mix BBQ",
+      "price": 1299,
+      "size": "Large",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvwBDaOTha1Z6KPfIOPVs2LJZcu76zwYQelaSAwmZA6nC_g0HwxClaaI0qdbjVTsQovLs&usqp=CAU",
+      "createdAt": {
+        "$date": "2021-04-30T15:56:09.573Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:56:09.573Z"
+      },
+      "id": "5"
+    },
+    {
+      "name": "Mushroom",
+      "price": 499,
+      "size": "Small",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVaG6quSLHL9xcajouj9rYXdxUzMoqi3NM8Q5hU_LJbDT57UgN94afOZMQFDTQFBTQGg&usqp=CAU",
+      "createdAt": {
+        "$date": "2021-04-30T15:56:35.142Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:56:35.142Z"
+      },
+      "id": "6"
+    },
+    {
+      "name": "Double peperoni",
+      "price": 1399,
+      "size": "Large",
+      "image": "https://media.istockphoto.com/id/1168754685/photo/pizza-margarita-with-cheese-top-view-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=psLRwd-hX9R-S_iYU-sihB4Jx2aUlUr26fkVrxGDfNg=",
+      "createdAt": {
+        "$date": "2021-04-30T15:57:04.665Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:57:04.665Z"
+      },
+      "id": "7"
+    },
+    {
+      "name": "Chicken premier",
+      "price": 899,
+      "size": "Medium",
+      "image": "https://static.uengage.in/uploads/5/image-5816-1658409504.jpg",
+      "createdAt": {
+        "$date": "2021-04-30T15:57:28.319Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:57:28.319Z"
+      },
+      "id": "8"
+    },
+    {
+      "name": "Caramel pineapple",
+      "price": 799,
+      "size": "Small",
+      "image": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg?t=st=1709462146~exp=1709465746~hmac=2484103779efe0cf6bf0c1a42635eecef78b0f5ceaf1b98036af4afd4d4acc6b&w=740",
+      "createdAt": {
+        "$date": "2021-04-30T15:57:56.632Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:57:56.632Z"
+      },
+      "id": "9"
+    },
+    {
+      "name": "Havana special",
+      "price": 599,
+      "size": "Small",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk60JM-FrbSx4x_rcwjalHfZEcrQCbjXfqA&s",
+      "createdAt": {
+        "$date": "2021-04-30T15:59:28.146Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-30T15:59:28.146Z"
+      },
+      "id": "10"
+    }
+  ],
+  "cart": [
+
+   
+
+    
+    {
+      "product": {
+        "name": "Four cheese",
+        "price": 799,
+        "size": "Medium",
+        "image": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "1"
+      },
+      "quantity": 1,
+      "id": "hggh526"
+    },
+    {
+      "product": {
+        "name": "Chicken mushroom",
+        "price": 699,
+        "size": "Small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpvTCNzpM8Jlg75-YT9s7zN3OcPnwaOloHCPn9JuItRj93rft56oXzBuh3wdlP9p80vU&usqp=CAU",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "2"
+      },
+      "quantity": 1,
+      "id": "hggyuhjh526"
+    },
+    {
+      "product": {
+        "name": "Margarita",
+        "price": 699,
+        "size": "Meduim",
+        "image": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "3"
+      },
+      "quantity": 1,
+      "id": "tyhhhj"
+    },
+    {
+      "product": {
+        "name": "Carbonara",
+        "price": 999,
+        "size": "Large",
+        "image": "https://us.123rf.com/450wm/sebastianbass/sebastianbass2311/sebastianbass231100036/217334310-pizza-on-white-background.jpg?ver=6",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "4"
+      },
+      "quantity": 1,
+      "id": "uye"
+    },
+    {
+      "product": {
+        "name": "Mix BBQ",
+        "price": 1299,
+        "size": "Large",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvwBDaOTha1Z6KPfIOPVs2LJZcu76zwYQelaSAwmZA6nC_g0HwxClaaI0qdbjVTsQovLs&usqp=CAU",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "5"
+      },
+      "quantity": 1,
+      "id": "trt"
+    },
+    {
+      "product": {
+        "name": "Mushroom",
+        "price": 499,
+        "size": "Small",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVaG6quSLHL9xcajouj9rYXdxUzMoqi3NM8Q5hU_LJbDT57UgN94afOZMQFDTQFBTQGg&usqp=CAU",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "6"
+      },
+      "quantity": 1,
+      "id": "zxc"
+    },
+    {
+      "product": {
+        "name": "Double peperoni",
+        "price": 1399,
+        "size": "Large",
+        "image": "https://media.istockphoto.com/id/1168754685/photo/pizza-margarita-with-cheese-top-view-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=psLRwd-hX9R-S_iYU-sihB4Jx2aUlUr26fkVrxGDfNg=",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "7"
+      },
+      "quantity": 1,
+      "id": "2d1CU0j"
+    },
+    
+    {
+      "product": {
+        "name": "Chicken premier",
+        "price": 899,
+        "size": "Medium",
+        "image": "https://static.uengage.in/uploads/5/image-5816-1658409504.jpg",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "8"
+      },
+      "quantity": 1,
+      "id": "ghrud256"
+    },
+  
+    {
+      "product": {
+        "name": "Caramel pineapple",
+        "price": 799,
+        "size": "Small",
+        "image": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg?t=st=1709462146~exp=1709465746~hmac=2484103779efe0cf6bf0c1a42635eecef78b0f5ceaf1b98036af4afd4d4acc6b&w=740",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "id": "9"
+      },
+      "quantity": 1,
+      "id": "56hgyrf"
+    },
+  
+    
+    {
+      "product": {
+        "name": "Havana special",
+        "price": 599,
+        "size": "Small",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk60JM-FrbSx4x_rcwjalHfZEcrQCbjXfqA&s",
+        "createdAt": {
+          "$date": "2021-04-30T15:57:04.665Z"
+        },
+        "updatedAt": {
+        },
+        "id": "10"
+      },
+      "quantity": 1,
+      "id": "rytu256"
+    }
+  
+  
+    
+
+
+     ]
+}
